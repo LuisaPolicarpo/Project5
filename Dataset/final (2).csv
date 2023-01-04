@@ -1,0 +1,181 @@
+,month,year,Type,Earnings,sleeps,Guests
+0,December, 2021,Hotelaria,132228,2067266,897016
+1,November, 2021,Hotelaria,185160,2936910,1179545
+2,October, 2021,Hotelaria,295076,4568205,1728722
+3,September, 2021,Hotelaria,309314,4592006,1626039
+4,August, 2021,Hotelaria,444303,6077677,1957735
+5,July, 2021,Hotelaria,249503,3626040,1259716
+6,June, 2021,Hotelaria,180855,2739561,1057039
+7,May, 2021,Hotelaria,105956,1600587,765883
+8,April, 2021,Hotelaria,37884,683229,345474
+9,March, 2021,Hotelaria,20995,446347,213008
+10,February, 2021,Hotelaria,14634,328602,157155
+11,January, 2021,Hotelaria,26989,520662,235919
+12,December, 2020,Hotelaria,45292,745190,360327
+13,November, 2020,Hotelaria,39181,714049,315300
+14,October, 2020,Hotelaria,105666,1864960,789487
+15,September, 2020,Hotelaria,173731,2876245,1057851
+16,August, 2020,Hotelaria,273701,4055883,1439298
+17,July, 2020,Hotelaria,131215,2053037,774014
+18,June, 2020,Hotelaria,40986,753834,347634
+19,May, 2020,Hotelaria,6960,177793,92896
+20,April, 2020,Hotelaria,3410,91101,35181
+21,March, 2020,Hotelaria,87898,1581993,562753
+22,February, 2020,Hotelaria,174634,3249008,1321936
+23,January, 2020,Hotelaria,157454,2766138,1189595
+24,December, 2019,Hotelaria,181357,2895156,1275651
+25,November, 2019,Hotelaria,204789,3392912,1426861
+26,October, 2019,Hotelaria,348442,5313807,2016384
+27,September, 2019,Hotelaria,442038,6285195,2281845
+28,August, 2019,Hotelaria,554823,7809472,2549496
+29,July, 2019,Hotelaria,469098,6738568,2217232
+30,June, 2019,Hotelaria,413087,5923355,2165771
+31,May, 2019,Hotelaria,362624,5450876,2106377
+32,April, 2019,Hotelaria,296248,4980206,1865375
+33,March, 2019,Hotelaria,221262,3867246,1516066
+34,February, 2019,Hotelaria,154218,2814239,1137073
+35,January, 2019,Hotelaria,147486,2522545,1035910
+36,December, 2018,Hotelaria,167658,2728297,1181968
+37,November, 2018,Hotelaria,187030,3210964,1287899
+38,October, 2018,Hotelaria,330876,5287621,1943758
+39,September, 2018,Hotelaria,417982,6161410,2202752
+40,August, 2018,Hotelaria,522369,7701098,2434670
+41,July, 2018,Hotelaria,451291,6653493,2120625
+42,June, 2018,Hotelaria,375782,5706482,2013408
+43,May, 2018,Hotelaria,342261,5354207,1984529
+44,April, 2018,Hotelaria,273248,4582828,1736497
+45,March, 2018,Hotelaria,218176,3915676,1473058
+46,February, 2018,Hotelaria,148204,2845097,1101422
+47,January, 2018,Hotelaria,134908,2414132,969646
+48,December, 2017,Hotelaria,155206,2626799,1122456
+49,November, 2017,Hotelaria,173792,3018800,1183720
+50,October, 2017,Hotelaria,317114,5214118,1897078
+51,September, 2017,Hotelaria,407097,6129458,2147614
+52,August, 2017,Hotelaria,494703,7637459,2349540
+53,July, 2017,Hotelaria,421925,6694924,2121123
+54,June, 2017,Hotelaria,343552,5783995,1983858
+55,May, 2017,Hotelaria,309368,5202778,1885573
+56,April, 2017,Hotelaria,263848,4938560,1814577
+57,March, 2017,Hotelaria,183515,3507249,1302460
+58,February, 2017,Hotelaria,133906,2675899,1029355
+59,January, 2017,Hotelaria,119518,2304534,931993
+60,December, 2021,Alojamento local,13590,399177,167868
+61,November, 2021,Alojamento local,17907,511061,216257
+62,October, 2021,Alojamento local,26695,702186,298959
+63,September, 2021,Alojamento local,29753,743588,312550
+64,August, 2021,Alojamento local,43631,984660,402530
+65,July, 2021,Alojamento local,25185,630097,253376
+66,June, 2021,Alojamento local,17789,466229,199854
+67,May, 2021,Alojamento local,10274,299346,135292
+68,April, 2021,Alojamento local,5104,176434,70159
+69,March, 2021,Alojamento local,3401,137483,47940
+70,February, 2021,Alojamento local,2718,113348,38048
+71,January, 2021,Alojamento local,3727,142946,49787
+72,December, 2020,Alojamento local,4933,161592,66185
+73,November, 2020,Alojamento local,4769,167337,66036
+74,October, 2020,Alojamento local,10326,321578,141773
+75,September, 2020,Alojamento local,16374,462181,200720
+76,August, 2020,Alojamento local,27571,662942,288578
+77,July, 2020,Alojamento local,13690,357682,157338
+78,June, 2020,Alojamento local,5714,169185,77793
+79,May, 2020,Alojamento local,1782,65084,25746
+80,April, 2020,Alojamento local,865,37286,10896
+81,March, 2020,Alojamento local,8117,256014,101955
+82,February, 2020,Alojamento local,14675,481678,214985
+83,January, 2020,Alojamento local,13531,432683,196084
+84,December, 2019,Alojamento local,18567,539947,260248
+85,November, 2019,Alojamento local,19784,593091,280117
+86,October, 2019,Alojamento local,33093,895751,406576
+87,September, 2019,Alojamento local,44758,1111275,502880
+88,August, 2019,Alojamento local,60231,1422773,619090
+89,July, 2019,Alojamento local,49446,1216781,515488
+90,June, 2019,Alojamento local,40376,1041015,469785
+91,May, 2019,Alojamento local,35590,944135,434815
+92,April, 2019,Alojamento local,29655,843605,385936
+93,March, 2019,Alojamento local,21195,644414,294371
+94,February, 2019,Alojamento local,14802,488542,221411
+95,January, 2019,Alojamento local,14139,459283,209221
+96,December, 2018,Alojamento local,15396,450779,214391
+97,November, 2018,Alojamento local,16717,510120,233918
+98,October, 2018,Alojamento local,28364,815776,357341
+99,September, 2018,Alojamento local,36719,968976,429495
+100,August, 2018,Alojamento local,49634,1225970,519844
+101,July, 2018,Alojamento local,40513,1061938,448477
+102,June, 2018,Alojamento local,30769,863540,375981
+103,May, 2018,Alojamento local,28495,791439,358734
+104,April, 2018,Alojamento local,23028,669088,300536
+105,March, 2018,Alojamento local,18094,565159,254075
+106,February, 2018,Alojamento local,12867,420187,189758
+107,January, 2018,Alojamento local,12275,381419,173881
+108,December, 2017,Alojamento local,14069,413000,193333
+109,November, 2017,Alojamento local,14677,455018,208259
+110,October, 2017,Alojamento local,25277,718348,315054
+111,September, 2017,Alojamento local,31723,860672,375090
+112,August, 2017,Alojamento local,41280,1037829,445213
+113,July, 2017,Alojamento local,33761,899661,382885
+114,June, 2017,Alojamento local,26502,763924,329201
+115,May, 2017,Alojamento local,22400,665439,294663
+116,April, 2017,Alojamento local,19442,619423,280856
+117,March, 2017,Alojamento local,13571,440436,197621
+118,February, 2017,Alojamento local,10369,346405,156477
+119,January, 2017,Alojamento local,9882,311023,142825
+120,December, 2021,Turismo no espaço rural e de habitação,6645,98131,51125
+121,November, 2021,Turismo no espaço rural e de habitação,7939,108789,56310
+122,October, 2021,Turismo no espaço rural e de habitação,13929,198569,100577
+123,September, 2021,Turismo no espaço rural e de habitação,18075,249919,114864
+124,August, 2021,Turismo no espaço rural e de habitação,30838,444935,177728
+125,July, 2021,Turismo no espaço rural e de habitação,19392,282506,120689
+126,June, 2021,Turismo no espaço rural e de habitação,13570,196002,95494
+127,May, 2021,Turismo no espaço rural e de habitação,8979,124277,67969
+128,April, 2021,Turismo no espaço rural e de habitação,4030,61365,30709
+129,March, 2021,Turismo no espaço rural e de habitação,1723,31897,13388
+130,February, 2021,Turismo no espaço rural e de habitação,905,17954,6821
+131,January, 2021,Turismo no espaço rural e de habitação,1577,24431,10466
+132,December, 2020,Turismo no espaço rural e de habitação,3121,46600,22252
+133,November, 2020,Turismo no espaço rural e de habitação,2481,38672,17127
+134,October, 2020,Turismo no espaço rural e de habitação,7594,113719,59174
+135,September, 2020,Turismo no espaço rural e de habitação,13517,195924,93547
+136,August, 2020,Turismo no espaço rural e de habitação,23893,363524,149896
+137,July, 2020,Turismo no espaço rural e de habitação,13894,220542,94622
+138,June, 2020,Turismo no espaço rural e de habitação,6333,108043,51233
+139,May, 2020,Turismo no espaço rural e de habitação,906,18716,7985
+140,April, 2020,Turismo no espaço rural e de habitação,192,4825,894
+141,March, 2020,Turismo no espaço rural e de habitação,2437,37499,17103
+142,February, 2020,Turismo no espaço rural e de habitação,5113,86357,48580
+143,January, 2020,Turismo no espaço rural e de habitação,3727,59405,33826
+144,December, 2019,Turismo no espaço rural e de habitação,5346,80837,42967
+145,November, 2019,Turismo no espaço rural e de habitação,5451,85965,48134
+146,October, 2019,Turismo no espaço rural e de habitação,9600,149127,77487
+147,September, 2019,Turismo no espaço rural e de habitação,14740,228104,111707
+148,August, 2019,Turismo no espaço rural e de habitação,23238,401182,166438
+149,July, 2019,Turismo no espaço rural e de habitação,16085,275881,116599
+150,June, 2019,Turismo no espaço rural e de habitação,12520,213184,104596
+151,May, 2019,Turismo no espaço rural e de habitação,9886,162829,84516
+152,April, 2019,Turismo no espaço rural e de habitação,9027,157489,79888
+153,March, 2019,Turismo no espaço rural e de habitação,5787,95262,52710
+154,February, 2019,Turismo no espaço rural e de habitação,3713,62459,35083
+155,January, 2019,Turismo no espaço rural e de habitação,3319,52456,28312
+156,December, 2018,Turismo no espaço rural e de habitação,4613,77754,40671
+157,November, 2018,Turismo no espaço rural e de habitação,4652,70526,36322
+158,October, 2018,Turismo no espaço rural e de habitação,8881,147317,75221
+159,September, 2018,Turismo no espaço rural e de habitação,12814,212241,104429
+160,August, 2018,Turismo no espaço rural e de habitação,20249,365672,149131
+161,July, 2018,Turismo no espaço rural e de habitação,14500,259090,108933
+162,June, 2018,Turismo no espaço rural e de habitação,10242,173181,84451
+163,May, 2018,Turismo no espaço rural e de habitação,9197,156428,78236
+164,April, 2018,Turismo no espaço rural e de habitação,7174,122696,62687
+165,March, 2018,Turismo no espaço rural e de habitação,4949,90284,46756
+166,February, 2018,Turismo no espaço rural e de habitação,3659,67386,35737
+167,January, 2018,Turismo no espaço rural e de habitação,2968,48188,26091
+168,December, 2017,Turismo no espaço rural e de habitação,4670,79882,40611
+169,November, 2017,Turismo no espaço rural e de habitação,3913,63672,31728
+170,October, 2017,Turismo no espaço rural e de habitação,8395,138919,69411
+171,September, 2017,Turismo no espaço rural e de habitação,11902,204563,97386
+172,August, 2017,Turismo no espaço rural e de habitação,19308,346368,136157
+173,July, 2017,Turismo no espaço rural e de habitação,13140,247071,102501
+174,June, 2017,Turismo no espaço rural e de habitação,9086,168453,79477
+175,May, 2017,Turismo no espaço rural e de habitação,7713,133812,68093
+176,April, 2017,Turismo no espaço rural e de habitação,7305,148148,75208
+177,March, 2017,Turismo no espaço rural e de habitação,3765,68090,37245
+178,February, 2017,Turismo no espaço rural e de habitação,2981,58722,32497
+179,January, 2017,Turismo no espaço rural e de habitação,2533,42290,24434
