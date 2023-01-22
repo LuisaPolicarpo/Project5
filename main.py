@@ -7,10 +7,14 @@ app = Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.MINTY])
 app.layout =  html.Div(children=[
         dbc.Row([
             dbc.Col(children = [
-            html.Img(src = 'https://raw.githubusercontent.com/LuisaPolicarpo/Project5/main/turismopt-removebg-preview.png',
-                style = {'height':'auto', 'width':'auto', 'object-fit':'contain'}),
+            dbc.Row([
+                html.Img(
+                    src = 'https://raw.githubusercontent.com/LuisaPolicarpo/Project5/main/turismopt-removebg-preview.png',style= {'width':'auto'}
+                ),
+            ], style= {'width':'100%'}
+            ),
             html.Hr(),
-            html.P("Explore:", className="lead",
+            html.P("Tourist's Journey:", className="lead",
                     style={"top": 0,
                             "left": 0,
                             "bottom": 0,
@@ -19,7 +23,7 @@ app.layout =  html.Div(children=[
                 ),
             html.Div([html.Div(
                 dcc.Link(
-                    f"{page['name']}",# - {page['path']}", 
+                    f"{page['name']}?",# - {page['path']}", 
                     href=page["relative_path"],
                     style={"top": 0,
                                 "left": 0,

@@ -18,11 +18,11 @@ def map_year(df = passengers):
                                 range_color=(500000, 11000000),
                                 mapbox_style="carto-positron",
                                 featureidkey="properties.name",
-                                zoom=5, center = {"lat": 38.7436057, "lon": -9.2302432},
+                                zoom=4, center = {"lat": 38.7436057, "lon": -9.2302432},
                                 opacity=0.8, width=800, height=800)
 
                             
-layout = [html.H1(children='Where are tourists going to?',
+layout = [html.H1(children='Where are tourists landing?',
                         style={'textAlign':'center', "padding": "2rem 1rem"}
                         ),
                 dcc.Graph(id='world-graph',figure=map_year(), 

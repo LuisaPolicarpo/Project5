@@ -127,7 +127,7 @@ def make_graph_2():
 
 layout = html.Div(children=[
       dbc.Row([
-            html.H1('Overnights', style={'textAlign':'center', "padding": "2rem 1rem"}
+            html.H1('Total Overnight Stays', style={'textAlign':'center', "padding": "2rem 1rem"}
                         ),
           dbc.Col([
             dcc.Graph(figure=make_graph_2())]),
@@ -135,7 +135,7 @@ layout = html.Div(children=[
           dbc.Col([
             dcc.Graph(figure=make_graph())]),
           html.Hr(),
-          dbc.Row([html.H1('Forescast for 2023',
+          dbc.Row([html.H1('Forecast for 2023',
                         style={'textAlign':'center', "padding": "2rem 1rem"}
                         ),
                     ],),

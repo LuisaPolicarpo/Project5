@@ -13,36 +13,27 @@ df_3 = df_22.groupby(['Year','Type']).agg({'Value':'sum'}).reset_index()
 def earnings_value(df = df_3):
     return px.pie(df, values='Value', names='Type', color_discrete_sequence=["#008B45", "#00CD66", "#71C671"])
 
-card_content = [
-    dbc.CardHeader("2017"),
-    dbc.CardBody(
-        [
-            html.H5("2.66 nights", className="card-title"),
-        ]
-    ),
-]
-card_content2 = [
-    dbc.CardHeader("2022"),
-    dbc.CardBody(
-        [
-            html.H5("2.58 nights", className="card-title"),
-        ]
-    ),
-]
-
-layout = html.Div(children=[
-        dbc.Row([html.H1('How much are they spending?',
-                        style={'textAlign':'center', "padding": "2rem 1rem"}
-                        ),
-                    ],),
-        dbc.Row([[
-                dbc.Col(dbc.Card(card_content, color="success",  outline=True, style={'textAlign':'center','width':'10rem', "height": "10rem"})),
-                dbc.Col(dbc.Card(card_content2, color="success", outline=True, style={'textAlign':'center', 'width':'10rem', "height": "10em"})
+layout  =  html.Div(children=[
+            dbc.Row(children = [
+            html.H1(
+                children = ['Avg overnight stays'], style={'textAlign':'center', "padding": "2rem 1rem"}
+                ), ]),
+            dbc.Row([html.Img(
+                    src = 'https://raw.githubusercontent.com/LuisaPolicarpo/Project5/main/cards.png',
+                    style= {'height':"25rem", 'width':'30rem', 
+                            'display': 'block',
+                            'margin-left': 'auto',
+                            'margin-right': 'auto'}
                 ),
-                 ],
-                 ]),
-        dbc.Row([
-            dbc.Col([html.Div(children = [dbc.Label("Choose a year:", style = {"margin-left": "25rem"}),
+            ], #style= {'width':'100%'}
+            ),
+            
+            dbc.Row(children = [
+            html.H1(
+                children = ['Earnings per segment'], style={'textAlign':'center', "padding": "2rem 1rem"}
+                ), ]),
+            dbc.Row([
+                dbc.Col([html.Div(children = [dbc.Label("Choose a year:", style = {"margin-left": "25rem"}),
                           dbc.RadioItems(
                           options=[{"label": "2017", "value": 2017},
                                     {"label": "2018", "value": 2018},
@@ -59,8 +50,8 @@ layout = html.Div(children=[
                      ]),
             dbc.Col([dcc.Graph(id='pie-graph',figure=earnings_value()
                                 )
-                        ]),]),
-                            ])
+                        ]),])])
+                            
 
 # Callbacks
 @callback(
