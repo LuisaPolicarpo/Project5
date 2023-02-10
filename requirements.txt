@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 dash==2.7.1
 pandas==1.5.2
 plotly==5.9.0
 dash-bootstrap-components==1.3.0
 geopandas==0.12.2
 
+=======
+dash = 2.7.1
+pandas= 1.5.2
+plotly = 5.9.0
+dash-bootstrap-components = 1.3.0
+geopandas = 0.12.2
+
+>>>>>>> da45f0b18c72ed9eda745faeadca52a9115fc847
